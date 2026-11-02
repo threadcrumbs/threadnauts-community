@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/threadnauts-icon.svg" width="96" height="96" alt="">
+  <img src="media/threadnauts-icon-light.svg" width="96" height="96" alt="">
 </p>
 
 <h1 align="center">Threadnauts</h1>
