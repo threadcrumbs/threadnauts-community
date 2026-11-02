@@ -1,0 +1,48 @@
+name: Ask for a harness
+description: Your coding agent isn't in the colony yet.
+labels: ["harness"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check the [open harness requests](https://github.com/threadcrumbs/threadnauts-community/issues?q=is%3Aissue+is%3Aopen+label%3Aharness) first. If yours is there, a 👍 on it counts as much as a new request.
+  - type: input
+    id: name
+    attributes:
+      label: Harness
+      placeholder: Aider
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Its website or repo
+      placeholder: https://aider.chat
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: The version you run
+  - type: dropdown
+    id: kind
+    attributes:
+      label: How do you use it?
+      multiple: true
+      options:
+        - A CLI in the terminal
+        - A desktop app
+        - An editor extension
+        - Something else
+  - type: textarea
+    id: storage
+    attributes:
+      label: Where does it keep its sessions?
+      description: If you know, the folder or database where it saves threads. Not sure? Start a short session in it, then look for files that just changed in your home folder.
+      placeholder: ~/.aider.chat.history.md in each repo
+  - type: textarea
+    id: open
+    attributes:
+      label: How do you get back to a session?
+      description: Does it have a link, a command, or a menu that reopens one session? This decides what Open can do.
+      placeholder: aider --restore-chat-history

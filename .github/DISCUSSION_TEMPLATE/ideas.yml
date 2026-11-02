@@ -1,0 +1,12 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas here are for talking through. Once one is clear, it can become a [feature request](https://github.com/threadcrumbs/threadnauts-community/issues/new?template=feature.yml).
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What it is, and the moment in your day when you'd want it.
+    validations:
+      required: true

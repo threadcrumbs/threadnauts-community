@@ -1,0 +1,26 @@
+name: Suggest a feature
+description: Something Threadnauts could do that it doesn't.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For a loose idea you'd like to talk through first, [Ideas in Discussions](https://github.com/threadcrumbs/threadnauts-community/discussions/categories/ideas) is a better fit. For a new world, use the [world form](https://github.com/threadcrumbs/threadnauts-community/issues/new?template=world.yml).
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The situation it comes up in. "I run four agents on one repo, and can't tell which worktree each one is in" is more useful than the feature on its own.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+      description: How you picture it working in the colony.
+    validations:
+      required: true
+  - type: textarea
+    id: now
+    attributes:
+      label: What do you do today instead?

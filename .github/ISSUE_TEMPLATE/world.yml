@@ -1,0 +1,37 @@
+name: Suggest a world
+description: A place you'd like your colony to be built on.
+labels: ["world"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every world has its own ground, scenery, weather, and light from dawn to night. Tell us what makes yours worth living on. Real places and original ones are both welcome.
+  - type: input
+    id: name
+    attributes:
+      label: The world
+      placeholder: Mount Roraima
+    validations:
+      required: true
+  - type: textarea
+    id: ground
+    attributes:
+      label: What's underfoot, around the colony?
+      placeholder: Black sandstone, cut by streams, with pools in the hollows and strange plants in the cracks.
+    validations:
+      required: true
+  - type: textarea
+    id: horizon
+    attributes:
+      label: What's on the horizon, and in the sky?
+      placeholder: The cliff edge on every side, a sea of cloud far below, and other tepuis rising out of it.
+  - type: textarea
+    id: time
+    attributes:
+      label: Anything special at dawn, dusk, or night?
+      placeholder: Mist pours over the edge in the morning, and lightning flickers inside the clouds below at night.
+  - type: textarea
+    id: refs
+    attributes:
+      label: Pictures
+      description: Photos or art that capture it. Drag them in, or link them.

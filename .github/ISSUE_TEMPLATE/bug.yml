@@ -1,0 +1,77 @@
+name: Report a bug
+description: Something in Threadnauts doesn't work, or shows something wrong.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting it. Before you paste anything, remember this issue is public: thread titles, prompts, repo names, and folder paths can be private. Remove or blur anything you don't want on the internet.
+
+        Not sure it's a bug? [Troubleshooting](https://github.com/threadcrumbs/threadnauts-community/blob/master/docs/troubleshooting.md) covers the usual questions. A security problem goes in [SECURITY.md](https://github.com/threadcrumbs/threadnauts-community/blob/master/SECURITY.md), not here.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you saw, and what you expected instead.
+      placeholder: I clicked Open on a Codex thread and nothing happened. I expected the Codex app to open on that thread.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we make it happen?
+      description: The steps, if you know them. "It happens every time I switch to Mars" helps a lot.
+  - type: input
+    id: version
+    attributes:
+      label: Threadnauts version
+      description: Run `npx @threadcrumbs/threadnauts --version`.
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - macOS
+        - Windows
+        - Linux
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      placeholder: Chrome 142
+  - type: dropdown
+    id: harnesses
+    attributes:
+      label: Which harness's threads does it involve?
+      multiple: true
+      options:
+        - Claude Code
+        - Codex
+        - OpenCode
+        - Antigravity CLI
+        - Cursor
+        - Hermes
+        - Kilo Code
+        - None of them, or I'm not sure
+  - type: input
+    id: harness-version
+    attributes:
+      label: Harness version
+      description: If it's about one harness, which version of it.
+  - type: textarea
+    id: harness-list
+    attributes:
+      label: Detected harnesses
+      description: If threads are missing, open `http://127.0.0.1:5274/api/harnesses` with the colony running and paste what it shows.
+      render: json
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots or a recording
+      description: Drag images or a video in here. `P` takes a screenshot of the colony, and `R` records one.

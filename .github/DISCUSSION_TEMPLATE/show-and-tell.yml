@@ -1,0 +1,23 @@
+title: "My colony: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Show us your colony. `P` takes a screenshot and `R` records a video. Both leave the panels out, but each zone's name plate shows your repo's name, so pick a view you're happy to share.
+  - type: textarea
+    id: media
+    attributes:
+      label: Your colony
+      description: Drag a screenshot or a video in here.
+    validations:
+      required: true
+  - type: input
+    id: world
+    attributes:
+      label: Which world?
+      placeholder: Fjord, at dusk
+  - type: textarea
+    id: story
+    attributes:
+      label: What's going on in it?
+      description: How many agents, what they're building, or anything you like about it.
