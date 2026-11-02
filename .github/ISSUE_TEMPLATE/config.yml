@@ -7,5 +7,5 @@ contact_links:
     url: https://github.com/threadcrumbs/threadnauts-community/blob/master/SECURITY.md
     about: Please report it privately, not in a public issue.
   - name: Something else
-    url: mailto:hello@threadcrumbs.io
+    url: https://github.com/threadcrumbs/threadnauts-community/blob/master/SUPPORT.md
     about: Licenses, billing, or anything that doesn't belong in public.
