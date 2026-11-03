@@ -7,7 +7,7 @@ The pictures and videos the README and docs use.
 | `threadnauts-icon.svg` | The app icon | Copied from threadnauts.io |
 | `threadnauts-icon-light.svg` | The app icon for light pages, without its dark tile | `threadnauts-icon.svg` with the tile taken out, so the black outlines carry the shape on white |
 | `threadnauts-icon-light-tight.svg` | The light icon cropped close, for places that add their own margin | `threadnauts-icon-light.svg` with its view cropped to the drawing, trail included, plus 4% |
-| `colony.webp`, `thread-card.webp`, `world-*.webp` | Screenshots of the app | The screenshot tool in the threadcrumbs.io site repo (`tools/screenshots`), which runs the app on a made-up home folder of demo threads |
+| `colony.webp`, `thread-card.webp`, `world-*.webp`, `ship-*.webp` | Screenshots of the app, copied from threadnauts.io's `site/shots/` | The screenshot tool in the threadcrumbs.io site repo (`tools/screenshots`), which runs the app on a made-up home folder of demo threads |
 | `install.gif` | The install command in a terminal. Not recorded yet | [VHS](https://github.com/charmbracelet/vhs), from `install.tape` |
 
 Every picture shows demo threads, never real ones. Re-shoot them whenever the app's look

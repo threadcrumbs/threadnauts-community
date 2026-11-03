@@ -98,6 +98,28 @@ you subscribe stays yours after you stop.
   </tr>
 </table>
 
+## Ten ships
+
+Your bots fly out of a dropship when their threads start, and board it again when you archive
+them. Pick one of ten under **View**, or right-click the ship. Thread Crosser is the default.
+
+<table>
+  <tr>
+    <td><img src="media/ship-thread-crosser.webp" alt="The Thread Crosser ship"><br>Thread Crosser</td>
+    <td><img src="media/ship-graceful-shutdown.webp" alt="The Graceful Shutdown ship"><br>Graceful Shutdown</td>
+    <td><img src="media/ship-core-dumper.webp" alt="The Core Dumper ship"><br>Core Dumper</td>
+    <td><img src="media/ship-load-balancer.webp" alt="The Load Balancer ship"><br>Load Balancer</td>
+    <td><img src="media/ship-root-cause.webp" alt="The Root Cause ship"><br>Root Cause</td>
+  </tr>
+  <tr>
+    <td><img src="media/ship-force-pusher.webp" alt="The Force Pusher ship"><br>Force Pusher</td>
+    <td><img src="media/ship-race-condition.webp" alt="The Race Condition ship"><br>Race Condition</td>
+    <td><img src="media/ship-hot-fixer.webp" alt="The Hot Fixer ship"><br>Hot Fixer</td>
+    <td><img src="media/ship-watchdog.webp" alt="The Watchdog ship"><br>Watchdog</td>
+    <td><img src="media/ship-edge-case.webp" alt="The Edge Case ship"><br>Edge Case</td>
+  </tr>
+</table>
+
 ## Help and feedback
 
 | | |
