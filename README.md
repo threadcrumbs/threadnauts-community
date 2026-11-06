@@ -75,7 +75,7 @@ you.
 - **Nothing to sign up for.** There's no account, no sign-in, and no telemetry.
 - **Your work stays put.** Your threads, code, and project names never leave your computer.
 - **Pro sends one thing.** Threadnauts Pro sends its license key and a random ID for your
-  computer, to activate and renew the license and to download Pro worlds.
+  computer, to activate and renew the license and to download Pro content.
 
 The details are in [docs/privacy.md](docs/privacy.md).
 
@@ -98,25 +98,30 @@ you subscribe stays yours after you stop.
   </tr>
 </table>
 
-## Ten ships
+## Twelve ships
 
 Your bots fly out of a dropship when their threads start, and board it again when you archive
-them. Pick one of ten under **View**, or right-click the ship. Thread Crosser is the default.
+them. Pick one of twelve under **View**, or right-click the ship. Thread Crosser is the default,
+and [Threadnauts Pro](https://threadnauts.io/pro) opens Race Condition and Zero Day.
 
 <table>
   <tr>
     <td><img src="media/ship-thread-crosser.webp" alt="The Thread Crosser ship"><br>Thread Crosser</td>
     <td><img src="media/ship-graceful-shutdown.webp" alt="The Graceful Shutdown ship"><br>Graceful Shutdown</td>
-    <td><img src="media/ship-core-dumper.webp" alt="The Core Dumper ship"><br>Core Dumper</td>
+    <td><img src="media/ship-core-dumper.webp" alt="The Core Dump ship"><br>Core Dump</td>
     <td><img src="media/ship-load-balancer.webp" alt="The Load Balancer ship"><br>Load Balancer</td>
-    <td><img src="media/ship-root-cause.webp" alt="The Root Cause ship"><br>Root Cause</td>
   </tr>
   <tr>
-    <td><img src="media/ship-force-pusher.webp" alt="The Force Pusher ship"><br>Force Pusher</td>
-    <td><img src="media/ship-race-condition.webp" alt="The Race Condition ship"><br>Race Condition</td>
-    <td><img src="media/ship-hot-fixer.webp" alt="The Hot Fixer ship"><br>Hot Fixer</td>
+    <td><img src="media/ship-root-cause.webp" alt="The Root Cause ship"><br>Root Cause</td>
+    <td><img src="media/ship-force-pusher.webp" alt="The Force Push ship"><br>Force Push</td>
+    <td><img src="media/ship-race-condition.webp" alt="The Race Condition ship"><br>Race Condition <strong>Pro</strong></td>
+    <td><img src="media/ship-zero-day.webp" alt="The Zero Day ship"><br>Zero Day <strong>Pro</strong></td>
+  </tr>
+  <tr>
+    <td><img src="media/ship-hot-fixer.webp" alt="The Hot Fix ship"><br>Hot Fix</td>
     <td><img src="media/ship-watchdog.webp" alt="The Watchdog ship"><br>Watchdog</td>
     <td><img src="media/ship-edge-case.webp" alt="The Edge Case ship"><br>Edge Case</td>
+    <td><img src="media/ship-bug-hunter.webp" alt="The Bug Hunter ship"><br>Bug Hunter</td>
   </tr>
 </table>
 

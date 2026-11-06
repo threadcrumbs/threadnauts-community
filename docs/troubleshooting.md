@@ -57,12 +57,12 @@ Open settings (`S`) and pick a lower **Quality preset**. A fresh install starts 
 **Adaptive quality**, which is on by default, lowers the render scale by itself when frames get
 expensive.
 
-## Pro worlds are still locked
+## Pro worlds or ships are still locked
 
 - Enter your license key in settings, under **Threadnauts Pro**. It's in your Polar receipt and
   starts with `THREADCRUMBS-`.
 - The first time, Threadnauts needs the internet, to add this computer to your license and
-  download the Pro worlds. After that, it checks the license on your computer.
+  download the Pro content. After that, it checks the license on your computer.
 - One key works on three computers. If all three are used, remove one in the
   [customer portal](https://threadcrumbs.io/portal).
 

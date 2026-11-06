@@ -6,9 +6,9 @@ browser. There's no account and no sign-in.
 | | |
 | --- | --- |
 | **Reads** | Your harnesses' own session records and transcripts |
-| **Writes** | `colony.json` in its data folder, with your colony's layout and the names and paths of your repos. With Pro, also your license and the downloaded Pro worlds, in the shared Threadcrumbs folder |
+| **Writes** | `colony.json` in its data folder, with your colony's layout and the names and paths of your repos. With Pro, also your license and the downloaded Pro content, in the shared Threadcrumbs folder |
 | **Never writes** | Anything belonging to a harness. Archiving or hiding a thread here changes nothing in the harness |
-| **Sends** | Nothing, without Pro. With Pro: your license key and a random ID for this computer when you activate, then the license itself, to renew it about once a week and to download Pro worlds |
+| **Sends** | Nothing, without Pro. With Pro: your license key and a random ID for this computer when you activate, then the license itself, to renew it about once a week and to download Pro content |
 | **Never sends** | Your threads, code, prompts, or project names. There's no telemetry |
 
 ## Where it keeps things

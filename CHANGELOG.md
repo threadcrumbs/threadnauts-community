@@ -3,6 +3,27 @@
 What changed in each release of Threadnauts. Run `npx @threadcrumbs/threadnauts@latest` to get
 the newest one.
 
+## 1.2.0 — November 6, 2026
+
+- **Twelve ships:** Bug Hunter joins the fleet, a low, crouched tracker with a clamshell tail and a
+  striped drop ramp. Zero Day is new with Pro: a long needle nose and one smooth body with its
+  engines sculpted in.
+- **Race Condition is now a Pro ship:** it's rebuilt as a satin-orange wedge with blade lights, a
+  wraparound canopy, and an engine in its nose. Without Pro, a saved Race Condition opens as Thread
+  Crosser, and you can pick any of the ten free ships.
+- **Ship names:** Core Dumper, Force Pusher, and Hot Fixer are now Core Dump, Force Push, and Hot
+  Fix.
+- **Ship clicks:** click the hatch to vent steam and open it for a moment. Click anywhere else on
+  the ship and its pilot answers and opens his Commander card, where global prompts and actions are
+  coming soon. On Race Condition and Zero Day, the space below the elevator counts as the hatch.
+- **The pilot keeps watch:** he now scans the view with narrowed eyes.
+- **Walls:** zone and district walls now bend with the world, and zone walls stand half as tall as
+  district walls. District walls keep their neon colors but glow as strongly as zone walls, and
+  walls and names stay as easy to read by day as they are at night.
+- **Repo names:** they're lettered like district names now, in the repo's color, without the dot.
+- **Saving:** if another program is holding your colony file, Threadnauts now waits and tries again.
+  A file it can't read no longer looks like an empty colony.
+
 ## 1.1.0 — November 2, 2026
 
 - **Ten ships:** the lander is now one of ten dropships, each with a working hatch, a lit bay,
