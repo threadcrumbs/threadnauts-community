@@ -3,6 +3,15 @@
 What changed in each release of Threadnauts. Run `npx @threadcrumbs/threadnauts@latest` to get
 the newest one.
 
+## Unreleased
+
+- **The Commander's menu:** the pilot's card is now a menu. *Ship* picks your ship, and replaces
+  the Ship setting. *Go to…* shows every world as its icon, so you can travel from the ship.
+  Prompts and Actions are coming soon. Right-click the ship, or press and hold it, to open the menu
+  too.
+- **The Commander's card holds still:** it stays put while he bobs and scans the view.
+- **Bots:** a bot walking past the ship's landing legs no longer gets stuck against one.
+
 ## 1.2.0 — November 6, 2026
 
 - **Twelve ships:** Bug Hunter joins the fleet, a low, crouched tracker with a clamshell tail and a
