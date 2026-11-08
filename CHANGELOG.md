@@ -15,6 +15,10 @@ the newest one.
   bright as Done bubbles.
 - **Organizations:** click one in the sidebar to center its district, the way a repo centers its
   zone.
+- **Live details from Threadgauge:** while Threadgauge runs, a bot's card shows the tool it's
+  running and on what, how long its turn has run, which subagents it's waiting on, and what it
+  needs from you: a question and its options, a tool waiting for permission, or an error. Point
+  at its status to see why it has it.
 
 ## 1.2.0 — November 6, 2026
 
