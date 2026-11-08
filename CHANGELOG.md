@@ -13,6 +13,8 @@ the newest one.
 - **Bots:** a bot walking past the ship's landing legs no longer gets stuck against one.
 - **Badges:** Working and Waiting on agents bubbles no longer dim as you zoom out, so they're as
   bright as Done bubbles.
+- **Organizations:** click one in the sidebar to center its district, the way a repo centers its
+  zone.
 
 ## 1.2.0 — November 6, 2026
 
