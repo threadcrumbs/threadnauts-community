@@ -11,6 +11,8 @@ the newest one.
   too.
 - **The Commander's card holds still:** it stays put while he bobs and scans the view.
 - **Bots:** a bot walking past the ship's landing legs no longer gets stuck against one.
+- **Badges:** Working and Waiting on agents bubbles no longer dim as you zoom out, so they're as
+  bright as Done bubbles.
 
 ## 1.2.0 — November 6, 2026
 
