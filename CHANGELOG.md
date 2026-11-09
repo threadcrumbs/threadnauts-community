@@ -8,8 +8,9 @@ the newest one.
 - **A new look, shared with Threadgauge:** the sidebar, bot cards, settings, help, and toasts take
   the Threadcrumbs theme and its fonts, Inter and JetBrains Mono, so the two apps look like one
   family. The 3D world and its lettering keep their own look.
-- **The sidebar is on the left:** it's as wide as Threadgauge's list, the camera buttons move to
-  the right edge, and a bot's card opens on the side away from the sidebar. The counts are status
+- **The sidebar is docked on the left:** it runs the window's full height at the width of
+  Threadgauge's list, with the same header and icons. The camera buttons move to the right edge,
+  and a bot's card opens on the side away from the sidebar. The counts are status
   lamps in order of urgency: Needs you, Error, Done, Working, Waiting on agents, Shipped, then Idle.
   Organizations and repos are headings, and a repo's threads are rows with their status and when
   they last moved.
