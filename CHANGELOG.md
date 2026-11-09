@@ -19,6 +19,13 @@ the newest one.
   running and on what, how long its turn has run, which subagents it's waiting on, and what it
   needs from you: a question and its options, a tool waiting for permission, or an error. Point
   at its status to see why it has it.
+- **Status colors match Threadgauge's:** Needs you is yellow, Working blue, Waiting on agents
+  violet, Done green, Error coral, and Idle a quieter gray, spread in lightness so they stay apart
+  in every kind of color vision. The status chips go in order of urgency: Needs you, Error, Done,
+  Working, then Waiting on agents.
+- **Zone and district colors:** six zone colors and four district colors moved off the new status
+  colors, so a zone's lights never look like a bot's status. Zones and districts on default colors
+  may change color. Colors you picked yourself stay.
 
 ## 1.2.0 — November 6, 2026
 
