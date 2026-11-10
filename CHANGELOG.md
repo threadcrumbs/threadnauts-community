@@ -10,10 +10,13 @@ the newest one.
   family. The 3D world and its lettering keep their own look.
 - **The sidebar is docked on the left:** it runs the window's full height at the width of
   Threadgauge's list, with the same header and icons. The camera buttons move to the right edge,
-  and a bot's card opens on the side away from the sidebar. The counts are status
-  lamps in order of urgency: Needs you, Error, Done, Working, Waiting on agents, Shipped, then Idle.
-  Organizations and repos are headings, and a repo's threads are rows with their status and when
-  they last moved.
+  and a bot's card opens on the side away from the sidebar. The counts are Threadgauge's status
+  lamps in order of urgency: Needs you, Error, Done, Working, Waiting on agents, then Idle. Shipped
+  counts as Done, and Dormant as Idle. Organizations are Threadgauge's group headings, which
+  collapse, and a repo's threads are Threadgauge's rows.
+- **More from Threadgauge while it runs:** the counts match its list exactly, a repo's rows show
+  the tool each thread is running, how long it has run, and its plan, and Threadgauge's Live,
+  Output, and Lines totals sit at the bottom of the sidebar.
 - **Bot cards:** a card reads like Threadgauge's details, from where the thread lives to its title,
   then its status and what it's doing. The context gauge turns amber at 70% and red at 90%.
 - **Live details from Threadgauge:** while Threadgauge runs, a bot's card shows the tool it's
