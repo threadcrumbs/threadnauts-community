@@ -14,8 +14,8 @@ the newest one.
   it says so instead of answering the old question. A thread asking several things at once is
   answered in its harness.
 - **It all goes through Threadgauge:** Threadnauts still never writes to your agents. Threadgauge's
-  Threadbare sends, checks Pro, and keeps the log, once you turn on "Let Threadnauts send" in its
-  Settings › Threadbare. Sending works only on the computer Threadnauts runs on. Without
+  agent controls send, check Pro, and keep the log, once you turn on "Let Threadnauts send" in its
+  Settings › Agent controls. Sending works only on the computer Threadnauts runs on. Without
   Threadgauge, with an older one, without Pro, or with sending off, the Commander says what's
   missing and offers the fix.
 - **The Threadcrumbs Pro Bundle is on sale:** Threadnauts Pro and Threadgauge Pro on one license
