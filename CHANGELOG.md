@@ -3,6 +3,27 @@
 What changed in each release of Threadnauts. Run `npx @threadcrumbs/threadnauts@latest` to get
 the newest one.
 
+## 1.4.0 — November 10, 2026
+
+- **The Commander sends prompts and actions:** with Threadgauge Pro, alone or in the bundle,
+  *Prompts* and *Actions* on the pilot's menu run one of Threadgauge's presets for every bot you
+  pick, its built-in ones first, then your own. A prompt is filled in from each bot's thread and
+  sent, and an action approves, denies, retries, or stops. Each bot shows how it went.
+- **Answer a bot from its card:** pick an answer to its question, allow or deny a tool waiting for
+  permission, or retry the last turn after an error. If the bot has started asking something new,
+  it says so instead of answering the old question. A thread asking several things at once is
+  answered in its harness.
+- **It all goes through Threadgauge:** Threadnauts still never writes to your agents. Threadgauge's
+  Threadbare sends, checks Pro, and keeps the log, once you turn on "Let Threadnauts send" in its
+  Settings › Threadbare. Sending works only on the computer Threadnauts runs on. Without
+  Threadgauge, with an older one, without Pro, or with sending off, the Commander says what's
+  missing and offers the fix.
+- **The Threadcrumbs Pro Bundle is on sale:** Threadnauts Pro and Threadgauge Pro on one license
+  key that unlocks both apps, on the same three computers, for $49 a year, at
+  [threadnauts.io/pro](https://threadnauts.io/pro). If you already have one app's Pro, switch to
+  the bundle in Polar's customer portal and pay only the difference. Your key and computers stay
+  the same.
+
 ## 1.3.0 — November 9, 2026
 
 - **A new look, shared with Threadgauge:** the sidebar, bot cards, settings, help, and toasts take
