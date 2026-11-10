@@ -35,6 +35,9 @@ the newest one.
   the Ship setting. *Go to…* shows every world as its icon, so you can travel from the ship.
   Prompts and Actions are coming soon. Right-click the ship, or press and hold it, to open the menu
   too. His card holds still while he bobs and scans the view.
+- **Arrakesh (Pro):** crescent dunes run out to a flat horizon under layered sandstone massifs. The
+  sandworm pushes a wall of sand ahead of it and swallows zones into its toothed throat without a
+  stall, and its thump is rebuilt from recordings.
 - **Organizations:** click one in the sidebar to center its district, the way a repo centers its
   zone.
 - **Bots:** a bot walking past the ship's landing legs no longer gets stuck against one, and
