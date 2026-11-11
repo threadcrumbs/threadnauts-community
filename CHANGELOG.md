@@ -3,6 +3,17 @@
 What changed in each release of Threadnauts. Run `npx @threadcrumbs/threadnauts@latest` to get
 the newest one.
 
+## 1.4.1 — November 10, 2026
+
+- **Upgrade to the bundle from Threadnauts:** if your key pays for Threadnauts Pro or Threadgauge
+  Pro but not both, *Upgrade to the bundle* in Settings, and in the Commander when sending needs
+  Threadgauge Pro, opens Polar's customer portal already signed in. Change your plan there and pay
+  only the prorated difference. If Polar asks for a payment method, add one in the portal's
+  settings first.
+- **Already subscribed?** The bundle and founder checkouts are for new subscriptions, so
+  [threadnauts.io/pro](https://threadnauts.io/pro) now points subscribers to the customer portal to
+  change their plan, and its FAQ says how to upgrade to the bundle.
+
 ## 1.4.0 — November 10, 2026
 
 - **The Commander sends prompts and actions:** with Threadgauge Pro, alone or in the bundle,
