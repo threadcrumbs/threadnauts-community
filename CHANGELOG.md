@@ -3,6 +3,14 @@
 What changed in each release of Threadnauts. Run `npx @threadcrumbs/threadnauts@latest` to get
 the newest one.
 
+## 1.4.2 — November 10, 2026
+
+- **Install a missing agent from the Commander:** when a bot can't be reached because its agent's
+  CLI isn't installed, its result still says why and now adds *Install it in Threadgauge*. That
+  opens Threadgauge's Settings › Agent controls, which shows the exact command and its source before
+  anything runs. For Cursor, Hermes, and OpenCode, the link is *How to install it*, to the vendor's
+  install page. This needs Threadgauge 0.2.2 or later.
+
 ## 1.4.1 — November 10, 2026
 
 - **Upgrade to the bundle from Threadnauts:** if your key pays for Threadnauts Pro or Threadgauge
