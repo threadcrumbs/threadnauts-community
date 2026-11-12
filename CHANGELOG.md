@@ -3,6 +3,19 @@
 What changed in each release of Threadnauts. Run `npx @threadcrumbs/threadnauts@latest` to get
 the newest one.
 
+## 1.4.4 — November 12, 2026
+
+- **A new repo header:** icon actions, the repo as the title, and a path you click to copy.
+- **New thread:** type what the agent should do, pick one of the agents installed on this computer,
+  and Threadgauge starts it in that repo. Comes with Threadgauge Pro. The old New conversation
+  button, which opened an empty desktop-app session, is gone.
+- **Navigation background:** Settings › View sets how much of the colony shows through the panel,
+  from 60% to 100%, 70% by default. Text and buttons stay solid.
+- **Rename a thread** from its bot's card. Threadgauge shows the same name.
+- **Bot card chat:** code blocks have a copy button, and pasted screenshots attach.
+- **Smaller things:** no "Sent to" toast.
+- **Works with** Threadgauge 0.2.6. Agent controls from Threadnauts need it.
+
 ## 1.4.3 — November 11, 2026
 
 - **Talk to a bot from its card:** with Threadgauge Pro, alone or in the bundle, a bot's card shows
