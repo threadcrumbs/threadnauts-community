@@ -3,6 +3,17 @@
 What changed in each release of Threadnauts. Run `npx @threadcrumbs/threadnauts@latest` to get
 the newest one.
 
+## 1.4.3 — November 11, 2026
+
+- **Talk to a bot from its card:** with Threadgauge Pro, alone or in the bundle, a bot's card shows
+  the end of its conversation and the new message box. You can answer, allow or deny, retry, send
+  now or after its turn, continue here, and add files, images, and modes, all through Threadgauge.
+- **Commander:** Prompts and Actions lead the menu and say they come with Threadgauge Pro. They're
+  plain lists, with a filter past 12 entries.
+- **Your plan, sooner:** a plan change in Polar shows within minutes, and Settings › Threadnauts Pro
+  has Check your plan.
+- **Works with** Threadgauge 0.2.4 and 0.2.5.
+
 ## 1.4.2 — November 10, 2026
 
 - **Install a missing agent from the Commander:** when a bot can't be reached because its agent's

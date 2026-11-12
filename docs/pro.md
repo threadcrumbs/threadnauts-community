@@ -28,7 +28,8 @@ subscription.
 
 Entering your key needs the internet once, and so does new Pro content when it downloads. After
 that, the license is checked on your computer, with no network call. Threadnauts renews it about
-once a week while it's open and online, and being offline never turns Pro off.
+once a week while it's open and online, and right away when you come back from Polar or choose
+Check your plan in Settings › Threadnauts Pro. Being offline never turns Pro off.
 
 ## What Pro sends
 
