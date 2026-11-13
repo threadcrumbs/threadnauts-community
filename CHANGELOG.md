@@ -3,6 +3,12 @@
 What changed in each release of Threadnauts. Run `npx @threadcrumbs/threadnauts@latest` to get
 the newest one.
 
+## 1.4.5 — November 12, 2026
+
+- **Starts after updating:** 1.4.4 could stop at launch with `ERR_PACKAGE_PATH_NOT_EXPORTED` if
+  you'd run 1.4.3 through npx, because npx kept 1.4.3's copy of `@threadcrumbs/common`. 1.4.5 asks
+  for the copy it needs.
+
 ## 1.4.4 — November 12, 2026
 
 - **A new repo header:** icon actions, the repo as the title, and a path you click to copy.
